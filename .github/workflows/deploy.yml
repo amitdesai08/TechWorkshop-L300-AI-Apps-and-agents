@@ -8,7 +8,7 @@ on:
 env:
   ACR_LOGIN_SERVER: acr3axo5zyiqirsc.azurecr.io
   IMAGE_NAME: chat-app
-  CONTAINER_APP_NAME: chat-app
+  CONTAINER_APP_NAME: app-3axo5zyiqirsc
   RESOURCE_GROUP: rg-TechWorkshop-04092026-aad
 
 jobs:
